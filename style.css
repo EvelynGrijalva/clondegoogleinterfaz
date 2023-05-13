@@ -1,0 +1,28 @@
+body{
+/*Así se hace un comentario*/
+    background-color: #d52752; /* Cambio color del  cuerpo de la página*/
+    color: aliceblue; /*Cambio color del texto dentro de la página*/
+    font-family: 'Kanit', sans-serif; /*Elegir tipos de fuentes dentro de la página*/
+}
+
+h1, p{ /*Cambio color en los elementos h1 (titulo) y p (parrafos)*/
+    color: #d7e881; 
+}
+
+h3{
+    font-size: 30px; /*Tamaño de la fuente*/
+}
+
+img{
+    width: 200px; /*Ancho*/
+    height: 100px; /*Altura*/
+    border-style:double; /*Añadir borde a las imagenes*/
+    border-width: 10px; /*Ancho del borde*/
+    border-color:#20daa0 ; /*Color del borde*/
+    padding: 20px; /*Espacio entre bordes de la imagen*/
+    margin: 20px; /*Margen dela página*/
+}
+
+a{
+    color:#20daa0;
+}
